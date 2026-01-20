@@ -4,21 +4,21 @@ using namespace std;
 
 int main()
 {
-     float num1, num2;
+     float n, m;
 
      cout << "Ingresa el primer numero: ";
-     cin >> num1;
+     cin >> n;
 
      cout << "Ingresa el segundo numero: ";
-     cin >> num2;
+     cin >> m;
 
-     if (num1 > num2)
+     if (n > m)
      {
-          cout << num1 << " es mayor que " << num2 << endl;
+          cout << n << " es mayor que " << m<< endl;
      }
-     else if (num2 > num1)
+     else if (m > n)
      {
-          cout << num2 << " es mayor que " << num1 << endl;
+          cout << m << " es mayor que " << n<< endl;
      }
      else
      {

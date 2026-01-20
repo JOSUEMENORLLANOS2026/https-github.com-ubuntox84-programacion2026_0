@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-     cout << "Estoy aprendiendo C++" << endl;
+     cout << "estoy aprendiendo C++" << endl;
      return 0;
 }
